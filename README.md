@@ -1,4 +1,4 @@
-# Dog_breed_classifier
+# Dog breed classifier
 
 ## Image Classification for a City Dog Show
 ### Project Goal:
